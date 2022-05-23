@@ -1,2 +1,2 @@
 # Solar Forecasting
-Solar Forecasting es un proyecto para la comparacion de difentes tecnicas 
+Solar Forecasting es un proyecto que pretende comprar difentes tecnicas de estimación de la radiación solar 
